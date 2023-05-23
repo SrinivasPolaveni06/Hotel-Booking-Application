@@ -1,0 +1,22 @@
+body{
+  margin: 0px;
+}
+.layout-container{
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.notFound{
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.waiting-container{
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

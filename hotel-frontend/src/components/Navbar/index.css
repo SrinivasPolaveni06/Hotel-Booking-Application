@@ -1,0 +1,53 @@
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    font-weight: 700;
+}
+.Explore{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    font-size: x-small;
+    font-weight: 700;
+}
+.Plus{
+    color: rgb(251, 251, 11);
+}
+.search{
+    width: 500px;
+}
+.Searchwidth{
+    width: 100%;
+}
+.btnSearch{
+    position: absolute;
+    left: 88%;
+    top:-3px;
+    
+}
+.searchIcon{
+    color: #2874f0;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+
+a{
+   text-decoration: none !important;
+   color: black!important;
+   margin: 8px;
+}
+ul>a.active{
+    color: rgb(56, 74, 240)!important;
+}
+ul>a{
+    font-weight: 600;
+}
+.navBarContainer{
+    position: fixed !important;
+    height: 60px;
+    width: 100%;
+    top: 0;
+    z-index: 2;
+
+}
